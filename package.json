@@ -1,0 +1,19 @@
+{
+  "name": "@onemoregroup/thaitones",
+  "version": "1.0.0",
+  "description": "Thaitone color scheme as json, css properties, common js and module js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onemoregroup/thaitones"
+  },
+  "main": "thaitones.js",
+  "module": "thaitones.mjs",
+  "style": "thaitones.css",
+  "keywords": [
+    "thaitones",
+    "color",
+    "themes"
+  ],
+  "author": "Thierry Wood <thierry@onemore.group> (https://onemore.group)",
+  "license": "MIT"
+}
