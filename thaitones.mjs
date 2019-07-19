@@ -1,1179 +1,1012 @@
 export const T1010 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "แดงชาด",
+  en: "Dangchad",
+  cmyk: [20, 100, 100, 0],
+  rgb: [201, 36, 43]
 };
 export const T1020 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "หงชาด",
+  en: "Hongchad",
+  cmyk: [15, 70, 50, 5],
+  rgb: [203, 102, 105]
 };
 export const T1030 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ดินแดง",
+  en: "Dindang",
+  cmyk: [40, 80, 90, 10],
+  rgb: [152, 76, 54]
 };
 export const T1040 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ดินแดงเทศ",
+  en: "Dindangthat",
+  cmyk: [40, 100, 100, 10],
+  rgb: [152, 38, 42]
 };
 export const T1050 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ดินแดงตัด",
+  en: "Dindangtut",
+  cmyk: [50, 100, 90, 25],
+  rgb: [118, 32, 42]
 };
 export const T1060 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "แดงตัด",
+  en: "Dangtut",
+  cmyk: [20, 100, 100, 30],
+  rgb: [149, 21, 25]
 };
 export const T1070 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "หงดินตัด",
+  en: "Hongdintut",
+  cmyk: [30, 70, 70, 30],
+  rgb: [137, 76, 62]
 };
 export const T1080 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "หงดิน",
+  en: "Hongdin",
+  cmyk: [15, 50, 40, 0],
+  rgb: [213, 144, 136]
 };
 export const T1090 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "หงสบาท",
+  en: "Hongsabat",
+  cmyk: [10, 50, 20, 0],
+  rgb: [223, 146, 163]
 };
 export const T1100 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ผุ่นแดง",
+  en: "Fhundang",
+  cmyk: [20, 90, 80, 0],
+  rgb: [223, 146, 163]
 };
 export const T1110 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ก้ามปูหลุด",
+  en: "Kampoolud",
+  cmyk: [10, 90, 100, 0],
+  rgb: [220, 64, 40]
 };
 export const T1120 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "บัวโรย",
+  en: "Buaroi",
+  cmyk: [20, 70, 40, 0],
+  rgb: [202, 106, 122]
 };
 export const T1130 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ท้องสิงห์",
+  en: "Tongsingha",
+  cmyk: [10, 80, 30, 0],
+  rgb: [220, 87, 126]
 };
 export const T1140 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ดอกอุบล",
+  en: "Dokubon",
+  cmyk: [10, 70, 20, 0],
+  rgb: [221, 109, 145]
 };
 export const T1150 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "แดงดอกกระมุท",
+  en: "Dangdokkamut",
+  cmyk: [5, 40, 20, 10],
+  rgb: [214, 153, 158]
 };
 export const T1160 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ลิ้นจี่",
+  en: "Linchi",
+  cmyk: [40, 100, 70, 0],
+  rgb: [166, 43, 76]
 };
 export const T1170 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "แดงดอกชบา",
+  en: "Dangdokchaba",
+  cmyk: [5, 90, 80, 0],
+  rgb: [166, 43, 76]
 };
 export const T1180 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "น้ำครั่ง",
+  en: "Namkruang",
+  cmyk: [10, 90, 80, 0],
+  rgb: [220, 64, 62]
 };
 export const T1190 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "แดงยอ",
+  en: "Dangyo",
+  cmyk: [15, 90, 50, 5],
+  rgb: [201, 59, 94]
 };
 export const T1200 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ก้ามปูอสุรา",
+  en: "Kampooasura",
+  cmyk: [10, 80, 100, 5],
+  rgb: [211, 84, 37]
 };
 export const T1210 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ดอกบานเย็น",
+  en: "Dokbanyen",
+  cmyk: [0, 70, 20, 0],
+  rgb: [242, 112, 145]
 };
 export const T1220 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "น้ำหมาก",
+  en: "Nammak",
+  cmyk: [25, 90, 100, 20],
+  rgb: [161, 52, 34]
 };
 export const T1230 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "กุหลาบ",
+  en: "Kulap",
+  cmyk: [0, 50, 20, 0],
+  rgb: [246, 152, 163]
 };
 export const T1240 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เกสรชมพู่",
+  en: "Gasornchompoo",
+  cmyk: [10, 90, 25, 0],
+  rgb: [219, 59, 123]
 };
 export const T1250 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "แดงมณี",
+  en: "Dangmanee",
+  cmyk: [15, 90, 80, 5],
+  rgb: [202, 60, 61]
 };
 export const T1260 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "นิลุบล",
+  en: "Nilubon",
+  cmyk: [30, 50, 10, 5],
+  rgb: [172, 131, 168]
 };
 export const T2010 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เสน",
+  en: "Sen",
+  cmyk: [0, 80, 100, 0],
+  rgb: [242, 88, 33]
 };
 export const T2020 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "หงเสน",
+  en: "Hongsen",
+  cmyk: [0, 60, 60, 0],
+  rgb: [245, 132, 101]
 };
 export const T2030 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ลูกพิกุล",
+  en: "Lukpikul",
+  cmyk: [10, 85, 90, 0],
+  rgb: [220, 76, 51]
 };
 export const T2040 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เมฆสนทยา",
+  en: "Meksonthaya",
+  cmyk: [0, 55, 90, 0],
+  rgb: [246, 139, 50]
 };
 export const T2050 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ก้านดอกกรรณิการ์",
+  en: "Kandokkannika",
+  cmyk: [0, 80, 90, 15],
+  rgb: [209, 76, 40]
 };
 export const T2060 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ภูอัคนี",
+  en: "Phuakanee",
+  cmyk: [10, 50, 50, 0],
+  rgb: [224, 145, 121]
 };
 export const T2070 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "หมากสุก",
+  en: "Maksuk",
+  cmyk: [0, 70, 90, 0],
+  rgb: [243, 110, 49]
 };
 export const T2080 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ดอกทับทิม",
+  en: "Doktaptim",
+  cmyk: [10, 80, 90, 0],
+  rgb: [221, 87, 52]
 };
 export const T2090 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "น้ำผึ้ง",
+  en: "Nampueang",
+  cmyk: [15, 60, 100, 0],
+  rgb: [215, 124, 41]
 };
 export const T2100 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "หม้อใหม่",
+  en: "Momai",
+  cmyk: [0, 35, 50, 10],
+  rgb: [227, 163, 119]
 };
 export const T3010 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "รงทอง",
+  en: "Rongtong",
+  cmyk: [10, 25, 100, 0],
+  rgb: [232, 187, 31]
 };
 export const T3020 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "หรดาล",
+  en: "Horadan",
+  cmyk: [0, 10, 90, 0],
+  rgb: [255, 222, 44]
 };
 export const T3030 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เปลือกข้าวโพด",
+  en: "Pleangkaophot",
+  cmyk: [5, 15, 50, 0],
+  rgb: [245, 132, 101]
 };
 export const T3040 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เลื่อมประภัสสร",
+  en: "Lueamprapasson",
+  cmyk: [20, 15, 40, 0],
+  rgb: [206, 201, 162]
 };
 export const T3050 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "จันทร์",
+  en: "Chan",
+  cmyk: [5, 15, 75, 0],
+  rgb: [244, 210, 93]
 };
 export const T3060 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "จำปา",
+  en: "Champa",
+  cmyk: [5, 40, 100, 0],
+  rgb: [238, 163, 31]
 };
 export const T3070 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เหลืองดิน",
+  en: "Lueangdin",
+  cmyk: [20, 30, 100, 10],
+  rgb: [190, 156, 37]
 };
 export const T3080 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ดอกบวบ",
+  en: "Dokbuab",
+  cmyk: [0, 5, 75, 0],
+  rgb: [255, 233, 94]
 };
 export const T3090 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ไม้กฤษณา",
+  en: "Maikritsana",
+  cmyk: [10, 25, 55, 0],
+  rgb: [229, 190, 130]
 };
 export const T3100 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เหลืองไพล",
+  en: "Lueangpai",
+  cmyk: [10, 10, 100, 0],
+  rgb: [234, 212, 21]
 };
 export const T3110 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ลูกจันทร์",
+  en: "Lukkchan",
+  cmyk: [5, 25, 80, 0],
+  rgb: [242, 192, 78]
 };
 export const T3120 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "มุกสุข",
+  en: "Muksuk",
+  cmyk: [10, 20, 50, 15],
+  rgb: [199, 174, 123]
 };
 export const T3130 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ขี้ผึ้ง",
+  en: "Kipueang",
+  cmyk: [20, 40, 100, 0],
+  rgb: [208, 155, 42]
 };
 export const T3140 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เนื้อ",
+  en: "Nuea",
+  cmyk: [5, 15, 30, 0],
+  rgb: [241, 215, 179]
 };
 export const T3150 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "มะตูมสุก",
+  en: "Matumsuk",
+  cmyk: [15, 55, 100, 0],
+  rgb: [216, 133, 41]
 };
 export const T4010 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวไพร",
+  en: "Khiaopai",
+  cmyk: [70, 50, 100, 0],
+  rgb: [104, 120, 64]
 };
 export const T4020 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวตั้งแช",
+  en: "Khiaotangsae",
+  cmyk: [70, 10, 60, 0],
+  rgb: [69, 171, 135]
 };
 export const T4030 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวขี้ทอง",
+  en: "Khiaokithong",
+  cmyk: [100, 20, 60, 20],
+  rgb: [0, 121, 110]
 };
 export const T4040 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวขี้ม้า",
+  en: "Khiaokheemha",
+  cmyk: [70, 60, 100, 0],
+  rgb: [107, 107, 62]
 };
 export const T4050 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวขาบ",
+  en: "Khiaokab",
+  cmyk: [100, 40, 50, 20],
+  rgb: [0, 103, 110]
 };
 export const T4060 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวก้านตอง",
+  en: "Khiaokantong",
+  cmyk: [80, 20, 60, 0],
+  rgb: [38, 154, 130]
 };
 export const T4070 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวนวล",
+  en: "Khiaonuan",
+  cmyk: [70, 25, 70, 0],
+  rgb: [88, 152, 111]
 };
 export const T4080 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวก้ามปู",
+  en: "Khiaokampoo",
+  cmyk: [100, 80, 100, 30],
+  rgb: [23, 55, 42]
 };
 export const T4090 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวดิน",
+  en: "Khiaodin",
+  cmyk: [90, 60, 100, 0],
+  rgb: [53, 103, 64]
 };
 export const T4100 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวไข่ครุฑ",
+  en: "Khiaokaikrud",
+  cmyk: [90, 20, 50, 0],
+  rgb: [0, 150, 143]
 };
 export const T4110 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ตองอ่อน",
+  en: "Tongon",
+  cmyk: [50, 30, 90, 0],
+  rgb: [145, 155, 74]
 };
 export const T4120 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวตอง",
+  en: "Khiaotong",
+  cmyk: [90, 40, 100, 10],
+  rgb: [33, 114, 62]
 };
 export const T4130 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวขจี",
+  en: "Khiaokagi",
+  cmyk: [100, 25, 70, 10],
+  rgb: [0, 128, 104]
 };
 export const T4140 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวไบแค",
+  en: "Khiaobaikae",
+  cmyk: [100, 70, 100, 10],
+  rgb: [20, 81, 57]
 };
 export const T4150 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ก้านมะลิ",
+  en: "Kanmali",
+  cmyk: [60, 10, 50, 0],
+  rgb: [105, 180, 150]
 };
 export const T4160 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวไข่กา",
+  en: "Khiaokaiga",
+  cmyk: [45, 15, 50, 0],
+  rgb: [147, 182, 146]
 };
 export const T4170 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ไม้ไผ่",
+  en: "Maipai",
+  cmyk: [80, 25, 70, 10],
+  rgb: [39, 135, 102]
 };
 export const T4180 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวถั่ว",
+  en: "Khiaotua",
+  cmyk: [60, 20, 100, 10],
+  rgb: [109, 149, 58]
 };
 export const T4190 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวนกกะลิง",
+  en: "Khiaonokkaling",
+  cmyk: [45, 10, 70, 10],
+  rgb: [136, 171, 104]
 };
 export const T4200 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวตะพุ่น",
+  en: "Khiaothapoon",
+  cmyk: [60, 15, 20, 20],
+  rgb: [81, 146, 161]
 };
 export const T4210 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวขี้นกการเวท",
+  en: "Khiaokinokkarawek",
+  cmyk: [45, 0, 25, 10],
+  rgb: [125, 191, 184]
 };
 export const T4220 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "มหาดไทย",
+  en: "Mahadthai",
+  cmyk: [60, 40, 80, 20],
+  rgb: [101, 114, 73]
 };
 export const T4230 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวน้ำไหล",
+  en: "Khiaonamlai",
+  cmyk: [90, 20, 50, 0],
+  rgb: [0, 150, 143]
 };
 export const T4240 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "หญ้าแพรกอ่อน",
+  en: "Yhaphangon",
+  cmyk: [10, 5, 50, 5],
+  rgb: [220, 217, 144]
 };
 export const T4250 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "มรกต",
+  en: "Morakod",
+  cmyk: [20, 100, 100, 0],
+  rgb: [0, 144, 88]
 };
 export const T4260 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวมะพูด",
+  en: "Khiaomaphood",
+  cmyk: [30, 20, 100, 0],
+  rgb: [188, 181, 49]
 };
 export const T4270 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "โศก",
+  en: "Srok",
+  cmyk: [50, 5, 50, 0],
+  rgb: [132, 194, 153]
 };
 export const T4280 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวรงกา",
+  en: "Khiaorongga",
+  cmyk: [65, 25, 80, 10],
+  rgb: [95, 141, 86]
 };
 export const T5010 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "คราม",
+  en: "Khram",
+  cmyk: [100, 80, 40, 10],
+  rgb: [22, 70, 110]
 };
 export const T5020 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ครามฝรั่ง",
+  en: "Khramfarang",
+  cmyk: [100, 80, 0, 0],
+  rgb: [12, 77, 162]
 };
 export const T5030 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "มอคราม",
+  en: "Mokhram",
+  cmyk: [65, 40, 20, 15],
+  rgb: [87, 120, 150]
 };
 export const T5040 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เมฆคราม",
+  en: "Mekkhram",
+  cmyk: [100, 80, 40, 40],
+  rgb: [7, 47, 79]
 };
 export const T5050 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เมฆ",
+  en: "Mek",
+  cmyk: [40, 20, 15, 5],
+  rgb: [147, 173, 189]
 };
 export const T5060 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ตากุ้ง",
+  en: "Thaegung",
+  cmyk: [85, 50, 50, 20],
+  rgb: [41, 97, 105]
 };
 export const T5070 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ขาบ",
+  en: "Khap",
+  cmyk: [100, 80, 60, 10],
+  rgb: [26, 70, 90]
 };
 export const T5080 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ขาบดำ",
+  en: "KHapdam",
+  cmyk: [100, 80, 60, 50],
+  rgb: [4, 39, 56]
 };
 export const T5090 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เข้มขาบ",
+  en: "Kemkhap",
+  cmyk: [100, 60, 50, 20],
+  rgb: [0, 84, 101]
 };
 export const T5100 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "น้ำไหล",
+  en: "Namlai",
+  cmyk: [60, 10, 20, 5],
+  rgb: [90, 174, 189]
 };
 export const T5110 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ขนคอนางนกยูง",
+  en: "Koncornangnokyung",
+  cmyk: [100, 25, 40, 0],
+  rgb: [0, 141, 155]
 };
 export const T5120 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "กลาโหม",
+  en: "Kelahum",
+  cmyk: [80, 100, 30, 60],
+  rgb: [42, 1, 57]
 };
 export const T5130 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ตาแมว",
+  en: "Tamaw",
+  cmyk: [70, 30, 25, 0],
+  rgb: [77, 148, 172]
 };
 export const T5140 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "กรมท่า",
+  en: "Kromtha",
+  cmyk: [100, 90, 40, 30],
+  rgb: [27, 44, 85]
 };
 export const T5150 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "น้ำเงินนกพิราบ",
+  en: "Namngennokpilap",
+  cmyk: [90, 45, 40, 15],
+  rgb: [15, 105, 124]
 };
 export const T5160 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ฟ้า",
+  en: "Fa",
+  cmyk: [80, 50, 10, 0],
+  rgb: [52, 118, 174]
 };
 export const T6010 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ม่วงชาด",
+  en: "Muangchad",
+  cmyk: [40, 80, 50, 0],
+  rgb: [165, 84, 106]
 };
 export const T6020 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ม่วงคราม",
+  en: "MuangKhram",
+  cmyk: [95, 100, 60, 10],
+  rgb: [58, 45, 83]
 };
 export const T6030 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ม่วงเม็ดมะปราง",
+  en: "Muangmedmaprang",
+  cmyk: [70, 100, 20, 0],
+  rgb: [112, 44, 125]
 };
 export const T6040 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ม่วงดอกตะแบก",
+  en: "Muangdoktabaek",
+  cmyk: [30, 60, 10, 0],
+  rgb: [181, 121, 166]
 };
 export const T6050 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ม่วงดอกผักตบ",
+  en: "Muangdokpaktop",
+  cmyk: [60, 60, 10, 0],
+  rgb: [119, 111, 165]
 };
 export const T6060 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ม่วงเขียว",
+  en: "Muangkhiao",
+  cmyk: [60, 70, 55, 0],
+  rgb: [127, 97, 109]
 };
 export const T6070 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ม่วงแก่",
+  en: "Muangkae",
+  cmyk: [80, 90, 20, 30],
+  rgb: [67, 42, 100]
 };
 export const T6080 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ดอกอัญชัน",
+  en: "Dokunchan",
+  cmyk: [70, 80, 10, 0],
+  rgb: [105, 80, 149]
 };
 export const T6090 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เผือก",
+  en: "Pueak",
+  cmyk: [25, 40, 5, 0],
+  rgb: [189, 157, 194]
 };
 export const T6100 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ม่วงตอง",
+  en: "Muangtong",
+  cmyk: [30, 80, 55, 15],
+  rgb: [159, 74, 87]
 };
 export const T6110 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เปลือกมังคุด",
+  en: "Plueagmankut",
+  cmyk: [50, 90, 45, 30],
+  rgb: [110, 44, 79]
 };
 export const T6120 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "พวงอังกาบ",
+  en: "Pueangangkap",
+  cmyk: [45, 60, 0, 10],
+  rgb: [135, 106, 164]
 };
 export const T6130 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ลูกหว้า",
+  en: "Lukwa",
+  cmyk: [70, 100, 30, 50],
+  rgb: [64, 6, 67]
 };
 export const T7010 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "น้ำตาล",
+  en: "Namtan",
+  cmyk: [40, 70, 80, 30],
+  rgb: [123, 74, 52]
 };
 export const T7020 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "น้ำตาลไหม้",
+  en: "Namtanmai",
+  cmyk: [40, 70, 80, 60],
+  rgb: [82, 46, 26]
 };
 export const T7030 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "กะปิ",
+  en: "Kapi",
+  cmyk: [10, 70, 40, 30],
+  rgb: [165, 80, 91]
 };
 export const T7040 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ฝาด",
+  en: "Fhad",
+  cmyk: [50, 90, 90, 30],
+  rgb: [111, 46, 40]
 };
 export const T7050 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ฟาง",
+  en: "Fang",
+  cmyk: [15, 15, 50, 0],
+  rgb: [218, 186, 138]
 };
 export const T7060 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ดิน",
+  en: "Din",
+  cmyk: [0, 35, 50, 10],
+  rgb: [227, 163, 119]
 };
 export const T7070 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "อิฐ",
+  en: "It",
+  cmyk: [5, 65, 100, 20],
+  rgb: [193, 98, 26]
 };
 export const T7080 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "สัก",
+  en: "Sak",
+  cmyk: [20, 75, 90, 10],
+  rgb: [185, 88, 49]
 };
 export const T7090 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "กรัก",
+  en: "Kruk",
+  cmyk: [30, 60, 90, 30],
+  rgb: [138, 89, 41]
 };
 export const T7100 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "กากี",
+  en: "Kaki",
+  cmyk: [25, 30, 45, 20],
+  rgb: [161, 144, 120]
 };
 export const T8010 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ทอง",
+  en: "Thong",
+  cmyk: [20, 25, 80, 0],
+  rgb: [209, 182, 84]
 };
 export const T8020 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ทองคำ",
+  en: "Thongkam",
+  cmyk: [20, 35, 100, 10],
+  rgb: [189, 148, 37]
 };
 export const T8030 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ทองชมพูนุช",
+  en: "Thaonchomphunuch",
+  cmyk: [15, 35, 90, 0],
+  rgb: [219, 167, 59]
 };
 export const T8040 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ทองดอกบวบ",
+  en: "Thongdokbuab",
+  cmyk: [15, 20, 80, 0],
+  rgb: [221, 193, 83]
 };
 export const T8050 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เหลืองเพียงทอง",
+  en: "Lueangpeangthong",
+  cmyk: [20, 20, 100, 10],
+  rgb: [192, 172, 35]
 };
 export const T8060 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ทองแดง",
+  en: "Thongdang",
+  cmyk: [25, 70, 65, 20],
+  rgb: [160, 86, 75]
 };
 export const T8070 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ทองแดงสุก",
+  en: "Thongdangsuk",
+  cmyk: [5, 45, 50, 10],
+  rgb: [214, 143, 113]
 };
 export const T8080 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "นาก",
+  en: "Nak",
+  cmyk: [20, 65, 50, 0],
+  rgb: [203, 115, 113]
 };
 export const T8090 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เลื่อมพราย",
+  en: "Lueamphai",
+  cmyk: [10, 25, 30, 0],
+  rgb: [227, 192, 171]
 };
 export const T8100 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เลื่อมเหลือง",
+  en: "Lueamlueang",
+  cmyk: [10, 10, 50, 0],
+  rgb: [231, 217, 146]
 };
 export const T8110 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เงิน",
+  en: "Ngen",
+  cmyk: [5, 0, 5, 25],
+  rgb: [188, 196, 193]
 };
 export const T8120 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ขาวปนเพรช",
+  en: "Kaoponpet",
+  cmyk: [10, 10, 25, 0],
+  rgb: [229, 219, 192]
 };
 export const T8130 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เหล็ก",
+  en: "Lek",
+  cmyk: [0, 0, 5, 30],
+  rgb: [188, 189, 184]
 };
 export const T8140 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เหล็กไหล",
+  en: "Leklai",
+  cmyk: [50, 50, 60, 80],
+  rgb: [41, 36, 27]
 };
 export const T8150 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "สัมฤทธิ์ผล",
+  en: "Samritphon",
+  cmyk: [50, 70, 100, 40],
+  rgb: [97, 63, 28]
 };
 export const T8160 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "สัมฤทธิ์โชค",
+  en: "Samritchok",
+  cmyk: [30, 45, 100, 60],
+  rgb: [92, 70, 6]
 };
 export const T8170 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "สัมฤทธิ์ศักดิ์",
+  en: "Samritsak",
+  cmyk: [25, 25, 55, 20],
+  rgb: [161, 150, 109]
 };
 export const T8180 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "สัมฤทธิ์คุณ",
+  en: "Samritkhun",
+  cmyk: [70, 15, 40, 55],
+  rgb: [22, 93, 90]
 };
 export const T8190 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "สัมฤทธิ์เดช",
+  en: "Samritdat",
+  cmyk: [50, 40, 50, 60],
+  rgb: [68, 71, 64]
 };
 export const T9010 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ดำเขม่า",
+  en: "Damkhamao",
+  cmyk: [90, 80, 70, 100],
+  rgb: [0, 0, 0]
 };
 export const T9020 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ดำหมึก",
+  en: "Dammuek",
+  cmyk: [30, 25, 20, 60],
+  rgb: [90, 91, 96]
 };
 export const T9030 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "มอหมึก",
+  en: "Momuek",
+  cmyk: [60, 40, 50, 0],
+  rgb: [119, 138, 131]
 };
 export const T9040 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "หมึกจีน",
+  en: "Muekchin",
+  cmyk: [10, 0, 0, 90],
+  rgb: [54, 60, 65]
 };
 export const T9050 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "น้ำรัก",
+  en: "Namrak",
+  cmyk: [50, 60, 60, 80],
+  rgb: [43, 28, 24]
 };
 export const T9060 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "สัมฤทธิ์",
+  en: "Samrit",
+  cmyk: [55, 55, 60, 40],
+  rgb: [88, 78, 66]
 };
 export const T9070 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ปีกกา",
+  en: "Peekka",
+  cmyk: [70, 50, 60, 50],
+  rgb: [54, 69, 64]
 };
 export const T9080 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขม่ายาง",
+  en: "Khamaoyang",
+  cmyk: [30, 0, 0, 90],
+  rgb: [34, 54, 64]
 };
 export const T9090 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เทา",
+  en: "Tao",
+  cmyk: [20, 100, 100, 0],
+  rgb: [127, 133, 133]
 };
 export const T9100 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เหลืองเทา",
+  en: "Lueangtao",
+  cmyk: [25, 15, 20, 40],
+  rgb: [180, 167, 144]
 };
 export const T9110 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "สวาด",
+  en: "Swad",
+  cmyk: [60, 50, 40, 15],
+  rgb: [106, 110, 120]
 };
 export const T9120 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เขียวนิล",
+  en: "Khiaonil",
+  cmyk: [90, 100, 20, 90],
+  rgb: [0, 40, 53]
 };
 export const T9130 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "นิลกาฬ",
+  en: "Nilkan",
+  cmyk: [90, 60, 60, 90],
+  rgb: [0, 8, 11]
 };
 export const T9140 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ดอกเลา",
+  en: "Doklao",
+  cmyk: [30, 25, 20, 0],
+  rgb: [179, 179, 186]
 };
 export const T9150 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ลูกห่าน",
+  en: "Lukhan",
+  cmyk: [60, 60, 40, 15],
+  rgb: [107, 98, 114]
 };
 export const T9160 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ควันเพลิง",
+  en: "Kwanpheng",
+  cmyk: [0, 10, 20, 45],
+  rgb: [157, 144, 129]
 };
 export const T9170 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ปูน",
+  en: "Poon",
+  cmyk: [40, 30, 35, 0],
+  rgb: [159, 164, 159]
 };
 export const T9180 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "เทาเขียว",
+  en: "Toakhiao",
+  cmyk: [45, 25, 35, 0],
+  rgb: [147, 169, 164]
 };
 export const T0010 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ขาวผ่อง",
+  en: "Khaophong",
+  cmyk: [5, 5, 10, 0],
+  rgb: [241, 237, 226]
 };
 export const T0020 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ขาวกะบัง",
+  en: "Khaokabang",
+  cmyk: [5, 5, 5, 15],
+  rgb: [208, 207, 207]
 };
 export const T0030 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ฟ้าแลบ",
+  en: "Falap",
+  cmyk: [5, 15, 5, 0],
+  rgb: [239, 218, 224]
 };
 export const T0040 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ควายเผือก",
+  en: "kwaaipueag",
+  cmyk: [5, 25, 25, 0],
+  rgb: [239, 197, 181]
 };
 export const T0050 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ช้างเผือก",
+  en: "Changpueag",
+  cmyk: [10, 45, 45, 0],
+  rgb: [224, 154, 131]
 };
 export const T0060 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "กลีบบัว",
+  en: "Keabbua",
+  cmyk: [5, 30, 10, 0],
+  rgb: [237, 187, 198]
 };
 export const T0070 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "นวลเทา",
+  en: "Nuantao",
+  cmyk: [10, 10, 25, 25],
+  rgb: [180, 174, 155]
 };
 export const T0080 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "นวล",
+  en: "Nuan",
+  cmyk: [15, 15, 50, 0],
+  rgb: [219, 204, 144]
 };
 export const T0090 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "นวลจันทร์",
+  en: "Nuanchan",
+  cmyk: [15, 20, 70, 0],
+  rgb: [220, 193, 105]
 };
 export const T0100 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "สังข์",
+  en: "Sang",
+  cmyk: [0, 5, 20, 0],
+  rgb: [255, 241, 208]
 };
 export const T0110 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "ขาวขาบ",
+  en: "Khaokhap",
+  cmyk: [20, 5, 15, 5],
+  rgb: [193, 212, 206]
 };
 export const T0120 = {
-  id: "",
-  th: "หมอก",
-  en: "Mok",
-  cmyk: [5, 10, 20, 10],
-  rgb: [219, 204, 185]
+  th: "งาช้าง",
+  en: "Ngachang",
+  cmyk: [0, 0, 15, 0],
+  rgb: [255, 253, 224]
 };
 export const T0130 = {
-  id: "",
   th: "หมอก",
   en: "Mok",
   cmyk: [5, 10, 20, 10],
   rgb: [219, 204, 185]
 };
+
 export default {
   T1010: T1010,
   T1020: T1020,
